@@ -1,0 +1,437 @@
+`[
+    {
+        "title": "general",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "general",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "general",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "general",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "general",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "general",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "general",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "general",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "general",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "student temp jobs",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "new students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "new students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "new students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "new students",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "new students",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "new students",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "new students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "new students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "new students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "new students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "new students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "new students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "new students",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "new students",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "new students",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "new students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "new students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "new students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "new students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "new students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "new students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "new students",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "new students",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "new students",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "new students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "new students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "new students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "international students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "international students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "international students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "international students",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "international students",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "international students",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "international students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "international students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "international students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "international students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "international students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "international students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "international students",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "international students",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "international students",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "international students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "international students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "international students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    },
+    {
+        "title": "international students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs."
+    },
+    {
+        "title": "international students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate is more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "international students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday on August 16."
+    },
+    {
+        "title": "international students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your paystub history, please log in to ADP Canada TeamPay, following these instructions. The registration credentials should have been emailed to your student account prior to or on your first day.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "international students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "international students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co-op advisor regarding any possible program restrictions, communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part-time) exceed 40."
+    },
+    {
+        "title": "international students",
+        "question": "How can I apply for jobs?",
+        "answer": "Go to Workday → Menu → Jobs and Career Hub → Student Employment → Click on the on-campus jobs or off-campus jobs.\nFor co-op opportunities,  please check NUworks."
+    },
+    {
+        "title": "international students",
+        "question": "Why is my application automatically rejected?",
+        "answer": "Students may be rejected from a job if they are not qualified, or if another candidate was more suitable for the position. Hiring managers make the final hiring decision.\nIf you believe your applications are being rejected in error, please contact us."
+    },
+    {
+        "title": "international students",
+        "question": "When can new students apply for jobs?",
+        "answer": "Incoming students will be given access to Workday 20 days prior to the start of their program."
+    },
+    {
+        "title": "international students",
+        "question": "Am I allowed to start working while my I-9 documents are processing?",
+        "answer": "Students should not start working until their hire has been confirmed in Workday, to avoid any possible delay in pay if there are issues with the hire request or I-9 processing."
+    },
+    {
+        "title": "international students",
+        "question": "I do not have my original documents for Section 2 of the Form I-9. Can I present a scan, picture or photocopy?",
+        "answer": "No, we can only accept the true, physical document. We cannot accept scans, pictures or photocopies of I-9 supporting documents."
+    },
+    {
+        "title": "international students",
+        "question": "I will not be on campus prior to my start date to submit my I-9 documents in person. Can I complete a remote I-9 or email the documents to you?",
+        "answer": "No, we cannot verify your I-9 supporting documents remotely. For the safety of your identity, please do not email scanned copies of your Section 2 documents. Please bring original documents to the Student Employment Office once you arrive. Our office will be open during move-in week."
+    },
+    {
+        "title": "international students",
+        "question": "How can I view my paystubs?",
+        "answer": "To view your this year's paystub history, go to Workday and search “My Payslip” in the search bar.\nTo access paystub history prior to this year, please navigate to Student Hub → Resources → Financial Services → Student Employee Self Service, and search “Pay Slips”."
+    },
+    {
+        "title": "international students",
+        "question": "Why am I unable to submit a timesheet?",
+        "answer": "Students are paid on a bi-weekly pay schedule. Every pay week, the timesheet will be temporarily locked for processing payroll. If you have trouble entering time, please try again on Friday. Make sure you enter your hours by 10 AM Sunday morning every week so you can get paid on time."
+    },
+    {
+        "title": "international students",
+        "question": "Can I keep my part-time job while going on Co-op?",
+        "answer": "If your Co-op position is on-campus, please make sure you receive approval from your Co--op advisor regarding any possible program restrictions and communicate closely with both your Co-op supervisor and part-time supervisor, and make sure they are aware of your other on-campus positions and hours entered. There will be overtime charges if your total hours (Co-op + part time) exceed 40."
+    }
+]`
