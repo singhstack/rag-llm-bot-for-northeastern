@@ -1,0 +1,9 @@
+give the bot context with every new instance
+this initial context lies within the chat history of every session
+
+April 2
+The chat bot needs to differentiate between a  request and a normal thank you text.
+fix the flow on app
+Need some prompt engineering
+
+
