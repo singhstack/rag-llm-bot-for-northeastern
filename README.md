@@ -4,7 +4,13 @@ The "RAG Chatbot for Northeastern OGS and SEO (Student Employment Office)" proje
 
 
 Here is a quick demo of the chatbot: 
-<iframe src="https://drive.google.com/file/d/1lvXYzs51mMfNhB_td5gsu5mzsVla4JmB/preview" width="640" height="480" allow="autoplay"></iframe>
+<p align="center">
+  <video src="demo/chatbot demo.mov" width="500px"></video>
+</p>
+
+<video src="demo/chatbot demo.mov" width="320" height="240" controls></video>
+
+![non working video](demo/chatbot demo.mov)
 
 
 
